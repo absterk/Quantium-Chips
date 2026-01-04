@@ -1,7 +1,7 @@
 # Quantium-Chips
 
 This project investigates chip purchasing patterns using customer segmentation and store performance analysis to identify trends, optimize strategies, and inform business decisions.
-**Full presentation:** [View slides (PDF)](Quantium_Chips.pdf)
+**Full presentation:** [View slides (PDF)](Quantium_chips.pdf)
 
 <img src="images/1.png" width="800">
 <img src="images/2.png" width="800">
